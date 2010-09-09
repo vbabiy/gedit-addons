@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<snippets language="python">
+  <snippet>
+    <text><![CDATA[import ipdb; ipdb.set_trace(); #TODO:Remove Debug]]></text>
+    <tag>ipdb</tag>
+    <description>Add a ipdb break point</description>
+  </snippet>
+</snippets>
