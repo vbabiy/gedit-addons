@@ -5,4 +5,11 @@
     <tag>ipdb</tag>
     <description>Add a ipdb break point</description>
   </snippet>
+  <snippet override="python-doc">
+    <text><![CDATA['''
+$1
+'''$0]]></text>
+    <tag>doc</tag>
+    <description>doc string</description>
+  </snippet>
 </snippets>
